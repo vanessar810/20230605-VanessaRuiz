@@ -1,0 +1,13 @@
+git init
+touch
+git add .
+git status
+git commit -M
+git remote add origin
+git remote -v
+git branch
+git checkout
+mkdir
+cd 
+git commit 
+git push
